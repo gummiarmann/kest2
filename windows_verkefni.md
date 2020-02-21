@@ -83,7 +83,10 @@
 ### 11.2.2.3 elvar
 
 ### 11.2.5.8 gummi
-
+#### What is the current size of the virtual memory (paging file)?
+* 4GB
+#### What Drive [Volume Label] contains the paging file?
+*
 ### 11.2.6.2 agust
 
 ### 11.3.1.11 elvar
