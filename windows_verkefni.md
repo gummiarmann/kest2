@@ -168,6 +168,10 @@
 ### 11.4.4.2 elvar
 
 ### 11.4.5.3  gummi
+#### When does the password expire?
+ * 30.3.2020
+#### What is the local drive letter assigned to the connected resource?
+ * "c"
 
 
 ### 11.5.2.4
